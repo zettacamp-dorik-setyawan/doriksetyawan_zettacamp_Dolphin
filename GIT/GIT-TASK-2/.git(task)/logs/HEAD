@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 19f925b261a714938f4a93e2f7bfe47696b5377a Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692598398 +0700	commit (initial): [Initialization] First Commit
+19f925b261a714938f4a93e2f7bfe47696b5377a 19f925b261a714938f4a93e2f7bfe47696b5377a Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692598526 +0700	checkout: moving from master to dev/dorik
+19f925b261a714938f4a93e2f7bfe47696b5377a a979dac9d982b520ed9e409a0ce9a07ee793c1a7 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692598773 +0700	commit: [Initialization] Files & Directory Creation
+a979dac9d982b520ed9e409a0ce9a07ee793c1a7 a979dac9d982b520ed9e409a0ce9a07ee793c1a7 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692598961 +0700	checkout: moving from dev/dorik to bugfix/dorik
+a979dac9d982b520ed9e409a0ce9a07ee793c1a7 19f925b261a714938f4a93e2f7bfe47696b5377a Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692599029 +0700	checkout: moving from bugfix/dorik to Master
+19f925b261a714938f4a93e2f7bfe47696b5377a a979dac9d982b520ed9e409a0ce9a07ee793c1a7 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692599058 +0700	checkout: moving from Master to bugfix/dorik
+a979dac9d982b520ed9e409a0ce9a07ee793c1a7 19f925b261a714938f4a93e2f7bfe47696b5377a Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692600174 +0700	checkout: moving from bugfix/dorik to master
+19f925b261a714938f4a93e2f7bfe47696b5377a a979dac9d982b520ed9e409a0ce9a07ee793c1a7 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692600218 +0700	checkout: moving from master to bugfix/dorik
+a979dac9d982b520ed9e409a0ce9a07ee793c1a7 a979dac9d982b520ed9e409a0ce9a07ee793c1a7 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692600343 +0700	checkout: moving from bugfix/dorik to dev/dorik
+a979dac9d982b520ed9e409a0ce9a07ee793c1a7 19f925b261a714938f4a93e2f7bfe47696b5377a Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692600530 +0700	checkout: moving from dev/dorik to master
+19f925b261a714938f4a93e2f7bfe47696b5377a a979dac9d982b520ed9e409a0ce9a07ee793c1a7 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692600571 +0700	merge dev/dorik: Fast-forward
+a979dac9d982b520ed9e409a0ce9a07ee793c1a7 a979dac9d982b520ed9e409a0ce9a07ee793c1a7 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692600706 +0700	checkout: moving from master to bugfix/dorik
+a979dac9d982b520ed9e409a0ce9a07ee793c1a7 f9295ed1e4e1348780227f399620ac9777af7c82 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692600793 +0700	commit: [Initialization] Bug Fix
+f9295ed1e4e1348780227f399620ac9777af7c82 a979dac9d982b520ed9e409a0ce9a07ee793c1a7 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692600813 +0700	checkout: moving from bugfix/dorik to master
+a979dac9d982b520ed9e409a0ce9a07ee793c1a7 f9295ed1e4e1348780227f399620ac9777af7c82 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692600841 +0700	merge bugfix/dorik: Fast-forward
+f9295ed1e4e1348780227f399620ac9777af7c82 f9295ed1e4e1348780227f399620ac9777af7c82 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692609495 +0700	checkout: moving from master to bugfix/dorik
+f9295ed1e4e1348780227f399620ac9777af7c82 f9295ed1e4e1348780227f399620ac9777af7c82 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692609521 +0700	checkout: moving from bugfix/dorik to master
+f9295ed1e4e1348780227f399620ac9777af7c82 f9295ed1e4e1348780227f399620ac9777af7c82 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692609533 +0700	checkout: moving from master to master
+f9295ed1e4e1348780227f399620ac9777af7c82 a979dac9d982b520ed9e409a0ce9a07ee793c1a7 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692609549 +0700	checkout: moving from master to dev/dorik

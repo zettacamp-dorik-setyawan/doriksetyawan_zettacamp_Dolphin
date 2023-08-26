@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 3a8eddbefc31aeea136b6fe7e68fd2a924a81684 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692589232 +0700	commit (initial): [Initialization] Files & Directory Creation
+3a8eddbefc31aeea136b6fe7e68fd2a924a81684 0000000000000000000000000000000000000000 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692589244 +0700	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 3a8eddbefc31aeea136b6fe7e68fd2a924a81684 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692589244 +0700	Branch: renamed refs/heads/master to refs/heads/main
+3a8eddbefc31aeea136b6fe7e68fd2a924a81684 c8a411f007fb7338b4d462d4ceb52c2b9a087983 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692589642 +0700	commit: [Initialization] Files & Directory Creation
+c8a411f007fb7338b4d462d4ceb52c2b9a087983 6655b1dbb4c80c61e2466af8d808427fbe08afd6 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692589992 +0700	commit: [UI] Update Index HTML to have tab title and body
+6655b1dbb4c80c61e2466af8d808427fbe08afd6 6aeb34e24ac1d6c3789fc30f06a649caa9ab8721 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692590223 +0700	commit: [UI] Update Index HTML and Style.css to have red color on text <h1>
+6aeb34e24ac1d6c3789fc30f06a649caa9ab8721 853af03412aa94a8a6b46096e7b4f7b95760ca12 Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692590462 +0700	revert: Revert "[UI] Update Index HTML and Style.css to have red color on text <h1>"
+853af03412aa94a8a6b46096e7b4f7b95760ca12 e8b821e3f51f7a6abddfea92d0b35a4682ce93ef Dorik setyawan <dorik.setyawan@zettacamp.pro> 1692591975 +0700	commit: [Structure] Add gitignore file
