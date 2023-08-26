@@ -1,0 +1,84 @@
+*{
+  margin:0;padding: 0;
+}
+body{
+  background-color: rgb(56, 56, 56);
+  color: white;
+}
+
+.container{
+  
+  display: flex;
+  font-size: 20px;
+  width: 100%;
+  height: 7vh;
+  background-color: white;
+}
+.wraper{
+  display: flex;
+  justify-content: space-between;
+  width:100%;
+  height: 50px;
+  box-shadow: -5px 6px 9px -2px rgba(166,159,159,0.68);
+  background-color: #333333;
+}
+.name{
+  display: flex;
+  padding: 20px;
+  align-items: center;
+}
+.fristname{
+  font-weight: 700;
+  color: crimson;
+}
+.lastname{
+  color: white;
+  padding-left: 5px;
+}
+
+.navigation{
+  display: flex;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.navigation>li{
+  list-style-type: none;
+  padding: 10px;
+}
+
+.navigation>li>a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.navigation>li>a:hover{
+  color: crimson;
+  transition: all .3s ease-in-out;
+}
+
+.konten{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.konten>img{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.tabel-coba>table{
+  border:1px solid black;
+}
+td{
+  width: 200px;
+  border:1px solid black;
+}
+
+/*SHOPING LIST
