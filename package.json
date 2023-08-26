@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "a" : " nodemon myfrist.js",
+    "b": "nodemon task_2.js",
+    "c":"nodemon logic_task.js"
+  }
+}
