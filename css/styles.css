@@ -1,0 +1,13 @@
+body{
+    background-color: #333333;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+#A{
+    color: red;
+    font-size: large;
+}
+#B{
+    color: rgb(142, 148, 85);
+    font-size: small;
+}
