@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOCAL STORAGE</title>
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <h1 >Book Inventory</h1>
+    
+    <!-- Form untuk menambah buku baru -->
+    <form id="book-form">
+        <input type="text" id="title" placeholder="Name Book" required style="border: 1px solid tomato;">
+        <input type="text" id="totalcount" placeholder="Qty" required style="border: 1px solid tomato;">
+        <input type="text" id="author" placeholder="Author" required style="border: 1px solid tomato;">
+        <input type="text" id="description" placeholder="Add your description" required style="border: 1px solid tomato;">
+        <button type="submit" style="border: 1px solid tomato;">Add Book</button>
+    </form>
+
+    <!-- menampilkan list dari buku -->
+    <div id="book-list">
+        <table id="book-table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Total Count</th>
+                    <th>Author</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="book-table-body"></tbody>
+        </table>
+        <div>
+            <button style="border: 1px solid tomato; margin-top: 50px;" id="clear-localstorage-button">DELETE ALL BOOK</button>
+
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
